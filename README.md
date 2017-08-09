@@ -1,6 +1,7 @@
-# CtEduAngular
+# Comtrade Edu Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.7.
+This is base project for Comtrade's Angular 4 course.
 
 ## Development server
 
