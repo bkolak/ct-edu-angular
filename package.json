@@ -12,6 +12,10 @@
 	
 	"postinstall": "ng build --aot -prod"
   },
+   "engines": {
+    "node": "7.9.x",
+	"npm": "4.2.x."
+  },
   "private": true,
   "dependencies": {
     "@angular/animations": "^4.0.0",
